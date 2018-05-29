@@ -17,4 +17,4 @@ Research and implement the following Sorting Methods:
 Your function should take an integer array a a single argument and sort it in-place (e.g. mutate the array). You can use helper functions if you need extra arguments in your sorting procedure.
 
 ## Documentation
-In your README.md describe the exported values of each module you have defined. Every function description should include it's airty (expected number of paramiters), the expected data for each paramiter (data-type and limitations), and it's behavior (for both valid and invalued use). Feel free to write any additional information in your README.md.
+In your README.md describe the exported values of each module you have defined. Every function description should include it's airty (expected number of parameters), the expected data for each parameter (data-type and limitations), and it's behavior (for both valid and invalued use). Feel free to write any additional information in your README.md.
